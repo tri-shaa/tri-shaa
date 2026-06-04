@@ -30,14 +30,14 @@ Currently exploring DevOps and Cloud technologies.
 
 | Project                         | Stack                                      | Highlights                                                  |
 
-| [API Monitoring Dashboard](#)   | Spring Boot · React · PostgreSQL · Docker  | Tracks 20+ APIs in real time; ~99% uptime; CI/CD pipeline   |
-| [URL Shortener](#)              | Spring Boot · JavaScript · Docker          | 500+ redirect requests; real-time click analytics           |
-| [Banking System](#)             | Spring Boot · React                        | Full-stack app with deposits, withdrawals, balance tracking |
-| [AI Travel Guide](#)            | Gemini API · JavaScript                    | Budget-based itineraries via multi-turn LLM conversations   |
+| [API Monitoring Dashboard]   | Spring Boot · React · PostgreSQL · Docker  | Tracks 20+ APIs in real time; ~99% uptime; CI/CD pipeline   |
+| [URL Shortener]              | Spring Boot · JavaScript · Docker          | 500+ redirect requests; real-time click analytics           |
+| [Banking System]             | Spring Boot · React                        | Full-stack app with deposits, withdrawals, balance tracking |
+| [AI Travel Guide]            | Gemini API · JavaScript                    | Budget-based itineraries via multi-turn LLM conversations   |
 
 ---
 
 ## 📫 Let's connect
 
-Linkedin -- 
+Linkedin -- www.linkedin.com/in/trisha-sadhukhan-a99b82292
 Email -- misstrisha4@gmail.com
