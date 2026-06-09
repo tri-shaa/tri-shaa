@@ -13,6 +13,7 @@ Currently exploring DevOps and Cloud technologies.
 **Frontend:** React.js · HTML5 · CSS3  
 **DevOps & Tools:** Docker · Git · Linux · CI/CD · Render · Vercel  
 **Databases:** PostgreSQL · MySQL
+**Cybersecurity:** Linux . NMap . Wireshark . SOC Log Monitoring .  Blue team
 
 ---
 
